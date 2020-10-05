@@ -1,3 +1,6 @@
+# for app platform
+_static
+
 # Logs
 logs
 *.log
